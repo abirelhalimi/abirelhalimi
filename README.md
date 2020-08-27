@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to web and mobile development**
 
-- 👨‍💻 All of my projects are available at [https://abirelhalimi.com](abirelhalimi.com)
+- 👨‍💻 All of my projects are available at [abirelhalimi.com](https://abirelhalimi.com)
 
 - 💬 Ask me about **Java**
 
