@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I don't like coffee :grin:**
 
-<p align="center">
+<p>
 <a href="https://codepen.io/abirelhalimi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abirelhalimi" height="30" width="30" /></a>
 <a href="https://dev.to/abiir07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abiir07" height="30" width="30" /></a>
 <a href="https://twitter.com/abiir07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abiir07" height="30" width="30" /></a>
