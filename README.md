@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **CI / CD**
+- 🌱 I’m currently learning **CI / CD & Flutter**
 
 - 👯 I’m looking to collaborate on **any project related to web and mobile development**
 
