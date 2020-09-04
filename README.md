@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [abirelhalimi.com](https://abirelhalimi.com)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **abirelhalimi@gmail.com**
 
